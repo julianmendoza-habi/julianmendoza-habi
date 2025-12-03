@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6306ca,100:B801ff&height=200&text=Hey+%F0%9F%91%8B%2C+%20I'm%20Demitard&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20Software%20Systems%20Engineer%20from%20Colombia)
-<img align="right" width="200" src="https://media.discordapp.net/attachments/741974571569119233/1127295580352295064/image.png">
+<img align="right" width="200" src="https://demitard.nekoweb.org/elements/matematico.webp">
 <br>
 <br>
 - 🔭 I’m currently working on [Habi](https://habi.co/) as an Automation Engineer
@@ -29,7 +29,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-  	<img width="50" src="https://github.com/Mendo6472/Mendo6472/assets/78510889/8d16f64a-d3b7-4c60-acdd-1df16ae3edde" alt="Visual Basic" title="Visual Basic"/>
+  	<img width="50" src="https://github.com/julianmendoza-habi/julianmendoza-habi/assets/78510889/8d16f64a-d3b7-4c60-acdd-1df16ae3edde" alt="Visual Basic" title="Visual Basic"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/>
@@ -42,10 +42,9 @@
 <details><summary><h2>Stats!</h2></summary>
   <br>
   <div align="center">
-    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendo6472&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="mendo6472" />
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mendo6472&show_icons=false&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en" alt="mendo6472" />
+    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendo6472&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="julianmendoza-habi" />
   </div>
 </details>
 
-<img align="center" src = "https://github.com/Mendo6472/Mendo6472/assets/78510889/e925ad4b-80e5-481e-aea5-aa171d7d0d1a">
+<img align="center" src = "https://github.com/julianmendoza-habi/julianmendoza-habi/assets/78510889/e925ad4b-80e5-481e-aea5-aa171d7d0d1a">
 </p>

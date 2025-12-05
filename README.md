@@ -44,7 +44,7 @@
 <details><summary><h2>Stats!</h2></summary>
   <br>
   <div align="center">
-    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendo6472&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="julianmendoza-habi" />
+    <img width="48%" height="195px" src="https://github-readme-stats-timmy1236.vercel.app/api/top-langs?username=julianmendoza-habi&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="julianmendoza-habi" />
 	<img src="https://github-readme-stats-timmy1236.vercel.app/api/wakatime?username=Demitard&theme=dracula&bg_color=0d1117&title_color=74bb73&hide_border=true&layout=compact&v=2"/>
   </div>
 </details>

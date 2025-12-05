@@ -42,10 +42,10 @@
 </details>
 
 <details><summary><h2>Stats!</h2></summary>
-  <br>
-  <div align="center">
-    <img width="48%" height="195px" src="https://github-readme-stats-timmy1236.vercel.app/api/top-langs?username=julianmendoza-habi&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="julianmendoza-habi" />
-	<img src="https://github-readme-stats-timmy1236.vercel.app/api/wakatime?username=Demitard&theme=dracula&bg_color=0d1117&title_color=74bb73&hide_border=true&layout=compact&v=2"/>
+  <div align="center">  
+    <img width="50%" height="195px" src="https://github-readme-stats-timmy1236.vercel.app/api?username=julianmendoza-habi&theme=dracula&line_height=30px&bg_color=0d1117&title_color=74bb73&icon_color=74bb73&show_icons=true&rank_icon=github&hide_border=true&count_private=true"/> 
+    <img width="48%" height="195px" src="https://github-readme-stats-timmy1236.vercel.app/api/top-langs/?username=julianmendoza-habi&theme=dracula&bg_color=0d1117&title_color=74bb73&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats-timmy1236.vercel.app/api/wakatime?username=demitard&theme=dracula&bg_color=0d1117&title_color=74bb73&hide_border=true&layout=compact&v=2"/>
   </div>
 </details>
 

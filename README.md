@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mendo6472@gmail.com**
 
-- 🌐 Visit my [WebPage](https://demitard.nekoweb.org/)!
+- 🌐 Visit my [WebPage](https://demitard.nya.je)!
 <br>
 <details><summary><h2>Discord!</h2></summary>
 	<div align="center">
